@@ -18,5 +18,5 @@
 例：`chmod u+x test.txt` 给所有者增加执行权限
 
 ## 其他
-- `clear`：清屏
-- `whoami`：查看当前用户
+- `whoami`：看当前用户
+-`clear`:清屏
